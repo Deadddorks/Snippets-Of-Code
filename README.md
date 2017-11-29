@@ -1,6 +1,24 @@
 # Snippets-Of-Code
 Web repository for coding examples that focus on covering multiple aspects of a topic in order to create an environment for users to find well-rounded examples of code.  
 
+# Table of contents
+- [Oritin of Idea](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#origin-of-idea)
+  - [Issues with Stack-Overflow]()
+  - [Issues with Tutorials]()
+- [Generalization of the Idea]()
+  - [Learn at your own rate, in your own way]()
+- [What is it]()
+  - [Structure]()
+    - [Post]()
+    - [Post Body]()
+    - [Base Snippet]()
+    - [Substitution Snippet]()
+    - [Post Addition Request]()
+    - [Post Request]()
+- [Example]()
+  - [Base Snippet]()
+  - [Substituion Snippets]()
+
 # Origin of Idea
 Overall, this all comes from many struggles with stack-overflow, where I am never able to find what I am looking for. 
 ## Issues with Stack-Overflow
