@@ -2,7 +2,7 @@
 Web repository for coding examples that focus on covering multiple aspects of a topic in order to create an environment for users to find well-rounded examples of code.  
 
 # Table of contents
-- [Oritin of Idea](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#origin-of-idea)
+- [Origin of Idea](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#origin-of-idea)
   - [Issues with Stack-Overflow](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#issues-with-stack-overflow)
   - [Issues with Tutorials](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#issues-with-tutorials)
 - [Generalization of the Idea](https://github.com/Deadddorks/Snippets-Of-Code/blob/master/README.md#generalization-of-the-idea)
